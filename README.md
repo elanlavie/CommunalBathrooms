@@ -14,4 +14,4 @@ Maybe you're even reading it on your phone on the toilet ;)
 
 # 🪠 [Click Here to Plumb The Question!](https://colab.research.google.com/github/elanlavie/CommunalBathrooms/blob/main/Bathrooms.ipynb)
 
-![Open Bathroom Probability Plot](BathroomProbPlot.png)
+![Open Bathroom Probability Plot](BathroomProbPlot1.png)
