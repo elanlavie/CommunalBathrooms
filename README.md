@@ -8,7 +8,7 @@ Which got me thinking...
 
 What's the likelihood of at least one bathroom being free as a function of number of people and bathrooms in a house during "rush hour" traffic? 💩🚗 ;)
 
-My mathematician and coding-wizard friend Oliver Evans was game to figure it out and this notebook is the result!
+My mathematician and coding-wizard friend Oliver Evans was game to figure it out with me and this notebook is the result!
 
 Maybe you're even reading it on your phone on the toilet ;)
 
