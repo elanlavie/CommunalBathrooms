@@ -1,5 +1,7 @@
 # 🚽🏠 What's the Likelihood at Least One Bathroom Will be Available in Your House?
 
+(BathroomProbPlot.png)
+
 Growing up in a three-person 1-bathroom household, the potty could sometimes feel like a scarce resource. Whoever needed to go Number 1 always got priority over Number 2...
 
 As a young adult living in 60-person housing cooperatives, I curiously never experienced this issue.
