@@ -12,4 +12,4 @@ My mathematician and coding-wizard friend Oliver Evans was game to figure it out
 
 Maybe you're even reading it on your phone on the toilet ;)
 
-# 🪠 [Click Here to Plumb The Question!](https://colab.research.google.com/github/elanlavie/VoyagerMLTutorial/blob/main/Bathrooms.ipynb)
+# 🪠 [Click Here to Plumb The Question!](https://colab.research.google.com/github/elanlavie/CommunalBathrooms/blob/main/Bathrooms.ipynb)
